@@ -1,0 +1,6 @@
+<apex:page controller="CommanController1">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>comman page1</h1>
+  {!stringToDisplayOnPage }
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

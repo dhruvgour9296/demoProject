@@ -1,0 +1,6 @@
+<apex:page controller="controller1">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>{!message}</h1>
+  
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

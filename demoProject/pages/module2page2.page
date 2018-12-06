@@ -1,0 +1,6 @@
+<apex:page controller="module2Controller2">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>module2 page2</h1>
+  {!stringToDisplayOnPage }
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
